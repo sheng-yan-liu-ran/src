@@ -98,4 +98,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/sheng-yan-liu-ran/sheng-yan-liu-ran.github.io.git
+  branch: master
