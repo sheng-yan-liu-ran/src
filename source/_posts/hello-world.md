@@ -1,38 +1,23 @@
 ---
-title: Hello World
+title: hello world
+date: 1970-01-01
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+# 欢迎
 
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
+> 正在不断补全以前的内容！
 ```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
+等补全了再来弄个首页~
 ```
+> 
+<mark>在Github和Gitee上都有托管的内容，其中Github是时刻保持最新的
+    Github访问：**（国内如果无法访问请访问下面的链接！）**
+    https://sheng-yan-liu-ran.github.io/
+    Gitee访问：
+    https://sheng-yan-liu-ran.gitee.io/
+</mark>
 
-More info: [Server](https://hexo.io/docs/server.html)
+---
 
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+ * 声言柳然 敬上
+ * 2020.3
